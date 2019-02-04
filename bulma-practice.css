@@ -1,0 +1,11 @@
+@import url("../../../../node_modules/bulma/css/bulma.css");
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo{
+    max-width: 256px;
+}
